@@ -1,0 +1,2 @@
+# gur
+Dagaare-grammar build
